@@ -1,0 +1,14 @@
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.exe
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.deps.json
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.runtimeconfig.json
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.runtimeconfig.dev.json
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.dll
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\bin\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.pdb
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\obj\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.csprojAssemblyReference.cache
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\obj\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.csproj.CoreCompileInputs.cache
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\obj\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.AssemblyInfoInputs.cache
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\obj\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.AssemblyInfo.cs
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\obj\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.dll
+C:\Projects\PCF\Paypal\Features\PayPalScheduler\PayPal.Scheduler\obj\Release\netcoreapp2.2\win10-x64\PayPal.Scheduler.pdb
